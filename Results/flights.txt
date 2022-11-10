@@ -1,0 +1,8 @@
+Flight Number 1 :: Indian Airlines
+Flight Number 2 :: Vistara Airlines
+Flight Number 3 :: Indigo Airlines
+Flight Number 4 :: Spicejet Airlines
+Flight Number 5 :: American Airlines
+Flight Number 6 :: Air India
+Flight Number 7 :: Lufthansa Airlines
+Flight Number 8 :: Qatar Airlines
